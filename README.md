@@ -52,3 +52,7 @@ Criterios de Aceptación
     <img width="411" height="847" alt="image" src="https://github.com/user-attachments/assets/bd2cdc52-8107-48aa-b1cc-5ace834f4454" />
 
 
+## Evidencia registro en bd Firebase
+- Se empleó los documentos "usuarios" y "login_audits"
+<img width="1408" height="810" alt="image" src="https://github.com/user-attachments/assets/73db0ab4-4fde-48ff-86d8-9b755cbcff33" />
+
