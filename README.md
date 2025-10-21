@@ -56,3 +56,4 @@ Criterios de Aceptación
 - Se empleó los documentos "usuarios" y "login_audits"
 <img width="1408" height="810" alt="image" src="https://github.com/user-attachments/assets/73db0ab4-4fde-48ff-86d8-9b755cbcff33" />
 
+
